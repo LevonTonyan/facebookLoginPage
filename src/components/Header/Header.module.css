@@ -1,6 +1,26 @@
-.black-bg {
+.black {
     width: auto;
     height: 100px;
     background-color: #000;
+    color: #61dafb;
+    display: flex;
+
+
+}
+div img {
+    width: 99px;
+}
+
+
+.linkContainer {
+    font-family: Staatliches;
+    margin: auto;
+
+
+}
+
+.linkContainer a{
+    margin: 35px;
+    color: inherit;
 }
 
